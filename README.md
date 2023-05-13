@@ -12,7 +12,7 @@ RUNIC utilizes a client/server model where the application collects device varia
 
 # ➡️ Getting Started
 ## Installation
-RUNIC is an Android project based on Gradle, and it can be built using either Gradle directly or Android Studio. If you simply want to test the application, you can also check out the pre-built [artifact](https://github.com/user1342/RUNIC/tree/main/artifacts).
+RUNIC is an Android project based on Gradle, and it can be built using either Gradle directly or Android Studio. If you simply want to test the application, you can also check out the pre-built [APK](https://github.com/user1342/RUNIC/tree/main/artifacts).
 
 ## Running
 RUNIC utilizes Alarm Managers and JobSchedulers to run checks in the background while the application is installed. The main activity of RUNIC includes a settings page to configure its behavior, but please note that these settings are not currently enabled. As a result, RUNIC runs periodically and on device boot.
