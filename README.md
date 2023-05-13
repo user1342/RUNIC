@@ -2,7 +2,7 @@
     <img width=100% src="/assets/cover.png">
   </a>
 </p>
-<p align="center"> 🤖 <b> Android tamper detection demo 📱 </b> </p>
+<p align="center"> 🤖 <b> RUNIC: Android tamper detection demo 📱 </b> </p>
 
 <br>
 
