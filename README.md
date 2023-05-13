@@ -4,7 +4,12 @@
 </p>
 <p align="center"> 🤖 <b> RUNIC: Android tamper detection demo 📱 </b> </p>
 
-<br>
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/user1342/RUNIC)
+![GitHub last commit](https://img.shields.io/github/last-commit/user1342/RUNIC)
+
+</div>
 
 Welcome to RUNIC, an Android tamper detection demo! RUNIC is designed to serve as a parallel and introductory tool for understanding more complex tamper detection and integrity systems such as [Google Play SafetyNet](https://developer.android.com/training/safetynet) and [Huawei Safety Detect](https://developer.huawei.com/consumer/en/hms/huawei-safetydetectkit/). By exploring the inner workings of RUNIC, you can gain insights into the fundamental concepts and techniques employed in these advanced solutions.
 
