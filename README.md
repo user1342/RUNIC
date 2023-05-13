@@ -1,5 +1,5 @@
 <p align="center">
-    <img width=100% src="/assets/cover.gif">
+    <img width=100% src="/assets/cover-short.gif">
   </a>
 </p>
 <p align="center"> 🤖 <b> Android tamper detection demo 📱 </b> </p>
