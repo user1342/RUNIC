@@ -6,6 +6,8 @@
 
 <br>
 
+Welcome to RUNIC, an Android tamper detection demo! RUNIC is designed to serve as a parallel and introductory tool for understanding more complex tamper detection and integrity systems such as [Google Play SafetyNet](https://developer.android.com/training/safetynet) and [Huawei Safety Detect](https://developer.huawei.com/consumer/en/hms/huawei-safetydetectkit/). By exploring the inner workings of RUNIC, you can gain insights into the fundamental concepts and techniques employed in these advanced solutions.
+
 Welcome to RUNIC, an Android tamper detection demo! RUNIC utilizes a client/server model where the application collects device variables and sends them to a server for processing. The server then provides a percentage score indicating the likelihood of the device being tampered with. This repository is the successor to the previous tool, [Tamper](https://github.com/user1342/Tamper), and is currently in a minimal viable product (MVP) state. If you have any specific improvements, issues, or feature requests, please use the [issues tab](https://github.com/user1342/RUNIC/issues).
 
 # ➡️ Getting Started
