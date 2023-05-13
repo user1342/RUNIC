@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RUNIC</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Traffic</string>
+    <string name="sync_header">Data</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">User Agent</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Perform in background</string>
+    <string name="attachment_title">Perform intensive checks</string>
+    <string name="attachment_summary_on">Send more data over the network about this device.
+    </string>
+    <string name="attachment_summary_off">Send less data over the network about this device</string>
+</resources>
