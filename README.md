@@ -9,7 +9,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/user1342/RUNIC)
 ![GitHub last commit](https://img.shields.io/github/last-commit/user1342/RUNIC)
 <br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P7C2MM6)
 
 </div>
 
